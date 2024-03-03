@@ -11,9 +11,9 @@ to be honest with you man, im not saying that corny stuff like 'oh i love you so
 but lemme give you some lore. </p>
 `
 const s2= `
-<p>i remember when we went to chick fil together for the first time and i started talking about how huge my cock was. what the fuck is wrong with me?
-and then i said how i was looking for an fwb. what the fuck is wrong with me? yeah sometimes i think about that and it keeps me up at night. but then i remember
-that we're dating anyways so it doesnt really matter. it would be embarassing if we were broken up. </p>
+<p>i remember the day we went to fire island for the first time. those boat tickets were dummy expensive but im glad you had the money to pay for them. 
+but i remember going there and walking down the street to the beach and the white people were staring at me like they were at a zoo. 
+it was kinda funny. but i dont blame them cus i'd stare too if i saw a muscular handsome gorilla walking down my street.</p>
 `
 const s3= `
 <p> anywho, enjoy this bootleg mario run i made for you. i hope you like it. <3
